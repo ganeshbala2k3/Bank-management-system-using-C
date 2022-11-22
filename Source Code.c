@@ -1,5 +1,6 @@
 //bank management system
-//using C programming
+//using C programming\
+//My own developed code
 
 #include<stdio.h>
 #include<stdlib.h>
